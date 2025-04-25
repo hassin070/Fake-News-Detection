@@ -1,2 +1,5 @@
 # Fake-News-Detection
-## This is a project to classify fake & real news using machine learning
+## This is a project to classify fake & real news using machine learning 
+## Used the dataset from Kaggle
+
+
