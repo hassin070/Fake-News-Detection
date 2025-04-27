@@ -59,7 +59,7 @@ It uses:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
+   git clone https://github.com/soruprohan/Fake-News-Detection.git
    cd fake-news-detection
    ```
 
