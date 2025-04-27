@@ -86,7 +86,7 @@ It uses:
 ## Acknowledgements
 
 - Dataset taken from kaggle. Link: 
-https://www.kaggle.com/code/therealsampat/fake-news-detection/input?select=Fake.csv
+https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 - Scikit-learn documentation.
 
 ---
