@@ -91,11 +91,6 @@ https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 
 ---
 
-> **Note**:  
-> PCA was used only for visualization. The original model uses full 3000-dimensional features for actual prediction.
-
----
-
 ## Contributors
 - ***Hassin Arman Nihal*** Github profile: https://github.com/hassin070 
 - ***Md. Sorup Rohan*** Github Profile: https://github.com/soruprohan
